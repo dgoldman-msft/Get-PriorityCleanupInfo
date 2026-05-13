@@ -1,0 +1,26 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PowerShell
+*.ps1xml.bak
+*.psd1.bak
+
+# Log files generated at runtime
+*.txt
+*.log
+
+# Keep the docs folder structure but ignore generated XML help
+1.0/en-US/
+
+# VS Code
+.vscode/
+
+# JetBrains / Rider
+.idea/
+
+# Temp / scratch
+temp/
+tmp/
+scratch/
